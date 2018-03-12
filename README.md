@@ -1,1 +1,61 @@
 # Домашні завдання Білан Таня
+<!doctype html>
+<html>
+<head></head>
+<body>
+<button type="button" style="background-color:Blue;">
+Додати файл
+</button>
+<button type="button" style="background-color:green;">
+Імпортувати
+</button>
+<button type="button" style="background-color:red;">
+Видалити
+</button>
+<table width="100%" border="1" rules="rows">
+<caption style="width:20%"><a href=https://www.eway.in.ua/ua/cities/cherkasy/routes/2>1А: Вулиця Пацаєва-Санаторій "Україна"</a></caption>
+<caption scope="col" style="width:15%" align="left">1: санаторій "Україна" - Аврора</caption>
+  <tr>
+    <th width="50" align="left">Напрямок</th>
+    <th align="left">ЧЛФЗ "Аврора"</th> 
+    <th align="left">Завод "Хімреактив"</th>
+    <th align="left">ДОК</th>
+    <th align="left">Хлібозавод</th>
+    <th align="left">вул. Добровольського</th>
+    <th align="left">пл. 700-річчя Черкас</th>
+    <th align="left">Університет</th>
+    <th align="left">DEPO't center</th>
+    <th align="left">вул. Новопречистенська</th>
+    <th align="left">вул. Кривалівська</th>
+    <th align="left">вул. Пастерівська</th>
+  </tr>
+   <tr>
+    <td align="left">ЧЛФЗ "Аврора"-сан. Україна</td>
+    <td align="left">10:00</td>
+    <td align="left">10:05</td>
+    <td align="left">10:10</td>
+    <td align="left">10:15</td>
+    <td align="left">10:20</td>
+    <td align="left">10:25</td>
+    <td align="left">10:30</td>
+    <td align="left">10:35</td>
+    <td align="left">10:40</td>
+    <td align="left">10:45</td>
+    <td align="left">10:50</td>
+  </tr>
+     <tr>
+    <td align="left">сан. Україна-ЧЛФЗ "Аврора"</td>
+    <td align="left">10:00</td>
+    <td align="left">10:05</td>
+    <td align="left">10:10</td>
+    <td align="left">10:15</td>
+    <td align="left">10:20</td>
+    <td align="left">10:25</td>
+    <td align="left">10:30</td>
+    <td align="left">10:35</td>
+    <td align="left">10:40</td>
+    <td align="left">10:45</td>
+    <td align="left">10:50</td>
+  </tr>
+  </tabel>
+</body>
